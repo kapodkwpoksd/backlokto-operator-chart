@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  backlokto-operator:
+  - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2024-05-29T22:20:29.674968205+03:00"
+    description: Backlokto operator for backups management
+    digest: c82ed70a339e90d8af78bd676256b4aef56e901b9b74d276c80308b0cbea6e6d
+    name: backlokto-operator
+    type: application
+    urls:
+    - backlokto-operator-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-05-29T22:20:29.674340676+03:00"
